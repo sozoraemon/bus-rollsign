@@ -23,8 +23,8 @@ from lib import LCD_1inch47
 # このPythonファイルがある場所
 BASE_DIR = Path(__file__).resolve().parent
 
-# リポジトリ内のimagesフォルダ
-IMAGE_DIR = BASE_DIR / "images"
+# リポジトリ内のimageフォルダ
+IMAGE_DIR = BASE_DIR / "image"
 
 IMAGE_FILES = [
     "bus_rollsign_01.png",
